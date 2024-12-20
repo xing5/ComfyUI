@@ -1,0 +1,5 @@
+- add support for seed
+- fix the image-to-3d issue that the model generated is pretty dark, we are missing some steps that their demo does: https://github.com/microsoft/TRELLIS/blob/main/app.py
+- add support to one step text-to-3d
+- workflow that generate three perspective images from a single 3d model
+- add support for multiple-images-to-3d
